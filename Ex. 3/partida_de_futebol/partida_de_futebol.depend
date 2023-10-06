@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1696354137 source:c:\users\r__ru\onedrive\documents\ac 10 horas\ex. 3\partida_de_futebol\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+

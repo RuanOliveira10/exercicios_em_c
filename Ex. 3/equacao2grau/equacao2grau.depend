@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1695934405 source:c:\users\r__ru\onedrive\documents\ac 10 horas\ex. 3\equacao2grau\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<math.h>
+
